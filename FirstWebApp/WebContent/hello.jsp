@@ -7,6 +7,7 @@
 <title>初めてのJSP</title>
 </head>
 <body>
-	Hello World!!
+	<h1>Hello World!!</h1>
+	<%=java.util.Calendar.getInstance().getTime() %>
 </body>
 </html>
