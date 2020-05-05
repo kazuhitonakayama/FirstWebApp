@@ -7,6 +7,6 @@
 <title>初めてのJSP</title>
 </head>
 <body>
-	こんにちは
+	Hello World!!
 </body>
 </html>
